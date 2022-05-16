@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "intellisense": "^0.0.1",
+    "puppeteer": "^14.1.0"
+  }
+}
